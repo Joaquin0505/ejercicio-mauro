@@ -1,0 +1,42 @@
+[
+  {
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "name": "Carabiner Set",
+    "price": 12.00    
+  },
+  {
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "name": "Jaq Bag",
+    "price": 32.00
+  },
+  {
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "name": "Nanga Sandal",
+    "price": 89.00
+  },
+  {
+    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
+    "name": "Ponca Thermos",
+    "price": 13.00
+  },
+  {
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "name": "Kamenoko Liner",
+    "price": 120.00
+  },
+  {
+    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
+    "name": "P.S Cap",
+    "price": 49.00
+  },
+  {
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "name": "Carabinier Set",
+    "price": 139.00
+  },
+  {
+    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
+    "name": "Beanie",
+    "price": 29.00
+  }
+]
