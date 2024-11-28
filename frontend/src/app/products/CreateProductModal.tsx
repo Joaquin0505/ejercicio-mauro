@@ -59,7 +59,7 @@ export const CreateProductModal = ({isOpen, onClose, onCreate}
                 </label>
                 <input type="number" name="price" placeholder="Precio del producto" onChange={handlerChange} value={formData.price} className={inputCssStyles} required/>
 
-               
+
 
                 <button type="submit" className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-700">Crear</button>
                 <button onClick={onClose} className="ml-4 px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-700">Cancelar</button>

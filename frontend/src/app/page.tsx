@@ -1,6 +1,6 @@
 
 
-import { Dashboard } from "./dashboard/page";
+
 import { Landpage } from "./landpage/page";
 
 

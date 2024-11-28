@@ -5,7 +5,7 @@ import { Header } from "../(components)/Header"
 
 import { useState } from "react"
 import { PlusCircleIcon, SearchIcon, Weight } from "lucide-react"
-import { Rating } from "../(components)/Rating"
+
 import { CreateProductModal } from "../products/CreateProductModal"
 import { FaFacebookSquare, FaInstagram, FaYoutube } from "react-icons/fa"
 import { FaXTwitter } from "react-icons/fa6"
@@ -168,7 +168,7 @@ export const Landpage = () => {
                         </div>                                                
                     </div> 
                 <img src="https://images.pexels.com/photos/18351621/pexels-photo-18351621/free-photo-of-nieve-nevar-montanas-naturaleza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="bg-transparent w-full opacity-15 h-72"/>
-                                   
+
             </div>
 
 
