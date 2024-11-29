@@ -1,7 +1,8 @@
+import Landpage from "./landpage/page";
 
 
 
-import { Landpage } from "./landpage/page";
+
 
 
 export default function Home() {

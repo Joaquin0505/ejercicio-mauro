@@ -20,7 +20,7 @@ type ProductFormData ={
 
 
 
-export const Landpage = () => {
+const Landpage = () => {
 
   const[searchTerm, setSearchTerm] = useState("")
   const[isModalOpen, setIsModalOpen] = useState(false)
@@ -248,3 +248,4 @@ export const Landpage = () => {
   )
 }
 
+export default Landpage;
