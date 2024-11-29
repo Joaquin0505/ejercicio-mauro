@@ -7,7 +7,7 @@ import { useState } from "react"
 import { PlusCircleIcon, SearchIcon, Weight } from "lucide-react"
 
 import { CreateProductModal } from "../products/CreateProductModal"
-import { FaFacebookSquare, FaInstagram, FaYoutube } from "react-icons/fa"
+
 import { FaXTwitter } from "react-icons/fa6"
 
 
@@ -213,14 +213,7 @@ export const Landpage = () => {
                     </ul>
                     </div>
 
-                    <div className="flex flex-col w-full text-gray-100 ">                                   
-                    <ul className="flex  gap-8 text-gray-100 justify-end">
-                        <li><FaFacebookSquare size={22}/></li>
-                        <li><FaInstagram size={22}/></li>
-                        <li><FaYoutube size={22}/></li>
-                        <li><FaXTwitter size={22}/></li>
-                    </ul>
-                    </div>
+                    
                 </div>
 
 
