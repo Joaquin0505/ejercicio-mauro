@@ -8,7 +8,7 @@ import { PlusCircleIcon, SearchIcon, Weight } from "lucide-react"
 
 import { CreateProductModal } from "../products/CreateProductModal"
 
-import { FaXTwitter } from "react-icons/fa6"
+
 
 
 
