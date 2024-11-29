@@ -4,8 +4,7 @@ import StoreProvider, {useAppSelector} from './redux'
 
 
 import React, { useEffect } from 'react'
-import { Sidebar } from '@/app/(components)/Sidebar/index'
-import { setIsSidebarCollapsed } from '@/state'
+
 import { Navbar } from "./(components)/Navbar"
 
 const FrontLayout = ({children}:{children:React.ReactNode}) => {

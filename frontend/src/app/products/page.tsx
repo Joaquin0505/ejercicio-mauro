@@ -5,7 +5,7 @@ import { Header } from "../(components)/Header"
 
 import { useState } from "react"
 import { PlusCircleIcon, SearchIcon } from "lucide-react"
-import { Rating } from "../(components)/Rating"
+
 import { CreateProductModal } from "./CreateProductModal"
 
 

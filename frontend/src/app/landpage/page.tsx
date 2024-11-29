@@ -5,7 +5,7 @@ import { Header } from "../(components)/Header"
 
 import { useState } from "react"
 import { PlusCircleIcon, SearchIcon, Weight } from "lucide-react"
-import { Rating } from "../(components)/Rating"
+
 import { CreateProductModal } from "../products/CreateProductModal"
 import { FaFacebookSquare, FaInstagram, FaYoutube } from "react-icons/fa"
 import { FaXTwitter } from "react-icons/fa6"
@@ -60,11 +60,11 @@ export const Landpage = () => {
     <div>
       <div className="flex-col h-[160px] sm:h-[250px] md:h-[680px]  lg:h-[690px] xl:h-[690px]">
       <div className="flex">
-        <img src="https://images.pexels.com/photos/15382807/pexels-photo-15382807/free-photo-of-nieve-nevar-hombre-invierno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="absolute top-0 w-full  md:max-h-[730px] bg-opacity-90 opacity-90"/>
+        <img src="/esqui.png" alt="" className="absolute top-0 w-full  md:max-h-[730px] bg-opacity-90 opacity-90"/>
         <div className="relative flex items-center text-center justify-center w-full h-full content-center ">
         <p className="font-semibold md:text-8xl -top-40 text-4xl absolute z-10 md:top-40 lg:top-56 text-white">Jolt Sport Project</p>
         <p className="absolute -top-24 px-4 md:text-xl md:top-72 font-medium lg:top-[320px] lg:px-24 xl:px-96 text-white">Introducing our latest collection designed sepecifically outdoor enthusiasts. Features a range of high-perfomance outwear with a range of bold and vibrant colors and patterns to choose from.</p>
-        <button className="absolute items-center py-2 px-4 rounded-lg bg-white text-gray font-bold md:top-96 lg:top-[400px]">
+        <button  className="absolute items-center py-2 px-4 rounded-lg bg-white text-gray font-bold md:top-96 lg:top-[400px]">
           Shop Now
         </button>
         </div>
@@ -168,7 +168,7 @@ export const Landpage = () => {
                         </div>                                                
                     </div> 
                 <img src="https://images.pexels.com/photos/18351621/pexels-photo-18351621/free-photo-of-nieve-nevar-montanas-naturaleza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="bg-transparent w-full opacity-15 h-72"/>
-                                   
+
             </div>
 
 
